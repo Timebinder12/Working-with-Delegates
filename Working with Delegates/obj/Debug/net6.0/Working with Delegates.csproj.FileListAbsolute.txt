@@ -1,0 +1,15 @@
+C:\Users\shane\source\repos\Working with Delegates\Working with Delegates\bin\Debug\net6.0\Working with Delegates.exe
+C:\Users\shane\source\repos\Working with Delegates\Working with Delegates\bin\Debug\net6.0\Working with Delegates.deps.json
+C:\Users\shane\source\repos\Working with Delegates\Working with Delegates\bin\Debug\net6.0\Working with Delegates.runtimeconfig.json
+C:\Users\shane\source\repos\Working with Delegates\Working with Delegates\bin\Debug\net6.0\Working with Delegates.dll
+C:\Users\shane\source\repos\Working with Delegates\Working with Delegates\bin\Debug\net6.0\Working with Delegates.pdb
+C:\Users\shane\source\repos\Working with Delegates\Working with Delegates\obj\Debug\net6.0\Working with Delegates.csproj.AssemblyReference.cache
+C:\Users\shane\source\repos\Working with Delegates\Working with Delegates\obj\Debug\net6.0\Working with Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shane\source\repos\Working with Delegates\Working with Delegates\obj\Debug\net6.0\Working with Delegates.AssemblyInfoInputs.cache
+C:\Users\shane\source\repos\Working with Delegates\Working with Delegates\obj\Debug\net6.0\Working with Delegates.AssemblyInfo.cs
+C:\Users\shane\source\repos\Working with Delegates\Working with Delegates\obj\Debug\net6.0\Working with Delegates.csproj.CoreCompileInputs.cache
+C:\Users\shane\source\repos\Working with Delegates\Working with Delegates\obj\Debug\net6.0\Working with Delegates.dll
+C:\Users\shane\source\repos\Working with Delegates\Working with Delegates\obj\Debug\net6.0\refint\Working with Delegates.dll
+C:\Users\shane\source\repos\Working with Delegates\Working with Delegates\obj\Debug\net6.0\Working with Delegates.pdb
+C:\Users\shane\source\repos\Working with Delegates\Working with Delegates\obj\Debug\net6.0\Working with Delegates.genruntimeconfig.cache
+C:\Users\shane\source\repos\Working with Delegates\Working with Delegates\obj\Debug\net6.0\ref\Working with Delegates.dll
